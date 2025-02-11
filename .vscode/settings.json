@@ -1,0 +1,14 @@
+{
+    "marscode.codeCompletionPro": {
+        "enableCodeCompletionPro": false
+    },
+    "marscode.enableInlineCommand": true,
+    "marscode.enableCodelens": {
+        "enableInlineDocumentation": true,
+        "enableInlineUnitTest": true,
+        "enableInlineExplain": true
+    },
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
