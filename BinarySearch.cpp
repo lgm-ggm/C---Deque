@@ -159,6 +159,10 @@ int TreeHeight(BTree r){
     
 }
 
+int cs(){
+    
+}
+
 //统计二叉树的非终端结点的个数
 int NumberLeaves(BTree r){
     int LL,LR;
